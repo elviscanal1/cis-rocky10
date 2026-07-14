@@ -1,0 +1,50 @@
+# Logs
+logs/*
+!logs/.gitkeep
+
+# Reports
+reports/*
+!reports/.gitkeep
+
+# Backups
+backup/*
+!backup/.gitkeep
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.bak
+*.orig
+*.old
+
+# Shell history
+.history
+
+# Vim
+*.un~
+
+# VSCode
+.vscode/
+
+# JetBrains
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Bash debug
+*.trace
+
+# Generated reports
+*.html
+*.csv
+*.json
+
+# Archives
+*.tar.gz
+*.zip
